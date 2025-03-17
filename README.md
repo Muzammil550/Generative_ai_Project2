@@ -1,2 +1,2 @@
 # Generative_ai_Project2
-Build Sentimental model and reviews analysis
+"Depression Tweet Classification using Neural Network & Random Forest"
