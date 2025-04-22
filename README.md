@@ -15,7 +15,7 @@ Saves the best-performing Neural Network model
 
 
 Pandas & NumPy
-📌 To-Do
+ To-Do
  Implement more advanced deep learning models (e.g., LSTMs, GRUs)
  Experiment with different text embedding models
  Fine-tune hyperparameters for better accuracy
