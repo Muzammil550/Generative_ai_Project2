@@ -1,8 +1,7 @@
 # Generative_ai
 "Depression Tweet Classification using Neural Network & Random Forest"
 
-
-📌 Overview
+##Overview
 This project aims to classify tweets as depressed or not depressed using Sentence Transformers (MiniLM) for text embeddings and two classification models:
 
 A Neural Network (PyTorch)
